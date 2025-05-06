@@ -1,2 +1,4 @@
 This is demo for Git & Github class.
- this file is commited
+ this file is commitd.
+ This line is demonstrating for pulling command
+  you are learning git-hub
